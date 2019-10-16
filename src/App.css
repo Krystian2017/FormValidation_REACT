@@ -1,0 +1,54 @@
+.App {
+  min-height: 100vh;
+  text-align: center;
+  background-color: #282c34;
+  color: aliceblue;
+  padding: 20px;
+}
+
+.App-header {
+  margin-bottom: 50px;
+}
+
+.App-description {
+  margin-bottom: 50px;
+  color: #56a4a4;
+}
+
+.App-link {
+  color: #61dafb;
+  text-decoration: none;
+}
+
+form {
+  max-width: 70%;
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px solid aliceblue;
+}
+
+label {
+  display: block;
+}
+
+input {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+input[type="checkbox"] {
+  margin-left: 0;
+  margin-right: 10px;
+}
+
+button {
+  max-width: 200px;
+  padding: 10px 20px;
+  margin: 20px 0;
+}
+
+span {
+  color: red;
+  font-size: 12px;
+  display: block;
+}
